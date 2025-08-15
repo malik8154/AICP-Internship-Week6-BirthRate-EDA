@@ -59,17 +59,3 @@ The analysis focuses on trends, patterns, and seasonality in birth rates while r
   - Seaborn
 
 ---
-
-## 🚀 How to Run
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/malik8154/AICP-Internship-Week6-Birth-EDA.git
-   cd AICP-Internship-Week6-Birth-EDA
-
-2. Install Dependencies
-
-pip install pandas numpy matplotlib seaborn
-
-3. Run Script
-
-python week6_birth_eda.py
